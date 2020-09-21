@@ -8,11 +8,11 @@ Essa será uma aplicação que irá se conectar a uma Fake API, e exibir e filtr
 
 ## Rotas fake API
 
-- /foods: Retorna todas as comidas cadastradas na API
-- /foods/:id: Retorna um prato de comida cadastradas na API baseado no id
-- /categories: Retorna todas as categorias cadastradas na API
-- /orders: Retorna todas os pedidos que foram cadastrados na API
-- /favorites: Retorna todas as comidas favoritas que foram cadastrados na API
+- `/foods`: Retorna todas as comidas cadastradas na API
+- `/foods/:id`: Retorna um prato de comida cadastradas na API baseado no id
+- `/categories`: Retorna todas as categorias cadastradas na API
+- `/orders`: Retorna todas os pedidos que foram cadastrados na API
+- `/favorites`: Retorna todas as comidas favoritas que foram cadastrados na API
 
 ## Funcionalidades da aplicação
 
